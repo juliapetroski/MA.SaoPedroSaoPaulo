@@ -1,6 +1,6 @@
 
 ## Set repeated commands specific to the project region
-## This version is parameterised for the Barents sea
+implementation <- "St_Peter_St_Paul"
 
 library(sf)
 
@@ -29,7 +29,7 @@ shape <-  matrix %>%
   list() %>% 
   st_polygon() %>% 
   st_sfc() %>% 
-  st_sf(Region = "St Peter and St Paul",.)
+  st_sf(Region = implementation,.)
   st_crs(shape) <- st_crs(4326)                                        
   shape <- st_transform(shape, crs = crs)
   return(shape)
@@ -49,7 +49,7 @@ river_expansion <- matrix(c(13, 73,
   list() %>% 
   st_polygon() %>% 
   st_sfc() %>% 
-  st_sf(Region = "St Peter and St Paul",.)
+  st_sf(Region = implementation,.)
 st_crs(river_expansion) <- st_crs(4326)                                          
 river_expansion <- st_transform(river_expansion, crs = crs)
 
