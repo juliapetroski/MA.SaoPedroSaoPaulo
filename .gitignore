@@ -10,6 +10,6 @@
 .Ruserdata
 Project runtime.png
 
-!Domains.rds
-!Domains-accurate.rds
-!Overhang.rds
+!/Objects/Domains.rds
+!/Objects/Domains-accurate.rds
+!/Objects/Overhang.rds
