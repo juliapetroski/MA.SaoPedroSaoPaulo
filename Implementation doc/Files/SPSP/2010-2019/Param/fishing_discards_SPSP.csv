@@ -1,0 +1,13 @@
+Gear_name,Gear_code,Discardrate_PF,Discardrate_DF,Discardrate_MF,Discardrate_FDB,Discardrate_CSB,Discardrate_CZ,Discardrate_BD,Discardrate_SL,Discardrate_CT,Discardrate_KP
+Pots_and_traps,PT,0,0,0,0,0,0,0,0,0,0
+Purse_seine,PS,0,0,0.04,0,0,0,0,0,0,0
+Associated_schools,AS,0,0,0.10,0,0,0,1,0,0,0
+Longlines,LL,0,0,0.12,0,0,0,1,0,0,0
+Handlines_trolling_rocks,HT,0,0,0,0,0,0,1,0,0,0
+NA,NA,0,0,0,0,0,0,0,0,0,0
+NA,NA,0,0,0,0,0,0,0,0,0,0
+NA,NA,0,0,0,0,0,0,0,0,0,0
+NA,NA,0,0,0,0,0,0,0,0,0,0
+NA,NA,0,0,0,0,0,0,0,0,0,0
+NA,NA,0,0,0,0,0,0,0,0,0,0
+NA,NA,0,0,0,0,0,0,0,0,0,0
