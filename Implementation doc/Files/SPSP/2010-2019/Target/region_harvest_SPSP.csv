@@ -1,0 +1,11 @@
+Group,Regional_harvest_ratio,Comments
+Planktivorous_fish,0,Unknown
+Demersal_fish,0,Unknown
+Migratory_fish,0.000506197,SPSP_DATA_Catches_per_estimated_biomass
+Benthos_susp-dep,0,Unknown
+Benthos_carn-scav,0,Unknown
+Zooplankton_carn,0,Unknown
+Birds,0.000394941,SPSP_Rough_estimate_for_harvest_ratio_from_synthesis_of_bycatch_data
+Pinnipeds,0,Unknown
+Cetaceans,0,Unknown
+Macrophytes,0,Unknown
